@@ -30,6 +30,7 @@ namespace MyWPFApp
             {
                 RuntimeVersionInfo.Text = ThisAppInfo.GetDotNetRuntimeInfo();                
                 ButtonShowRuntimeVersionInfo.Content = "Hide Runtime Info";
+                // deneme
             }
             else
             {
